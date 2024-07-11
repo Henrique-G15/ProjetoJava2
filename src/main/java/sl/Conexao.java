@@ -14,7 +14,7 @@ public class Conexao {
 
     private Conexao() {
         this.bdUsuario = "root";
-        this.bdSenha = "godoy12305godoy";
+        this.bdSenha = "senha";
         this.bdHost = "jdbc:mysql://127.0.0.1:3306/tdelino?useSSL=false";
 
         try {
